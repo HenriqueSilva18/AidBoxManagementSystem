@@ -1,7 +1,7 @@
 <h1>Aid Box Management System</h1>
 
 <h2>Description</h2>
-This project is an Aid Box Management System developed in Java. It allows the management of humanitarian aid boxes and their containers, which are distributed across various regions. The system collects data from an external API, tracks the containers' content, and calculates distances between aid boxes for optimized logistics. Each aid box can contain different types of items like perishable food, non-perishable food, clothing, and medicine, with some requiring refrigerated vehicles for transportation. The system supports retrieving real-time measurements from containers, determining optimal routes, and managing vehicle logistics for efficient aid collection and delivery.
+This university project is an Aid Box Management System developed in Java. It allows the management of humanitarian aid boxes and their containers, which are distributed across various regions. The system collects data from an external API, tracks the containers' content, and calculates distances between aid boxes for optimized logistics. Each aid box can contain different types of items like perishable food, non-perishable food, clothing, and medicine, with some requiring refrigerated vehicles for transportation. The system supports retrieving real-time measurements from containers, determining optimal routes, and managing vehicle logistics for efficient aid collection and delivery.
 <br />
 
 <h2>Technologies Used</h2>
